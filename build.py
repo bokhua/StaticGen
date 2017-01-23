@@ -3,7 +3,7 @@ sitetitle='Unknown'
 publishdir = 'D:\\www\\github\\build\\publish'
 siteroot='http://localhost/github/bokhua.github.io'
 publishdir = 'D:\\www\\github\\bokhua.github.io'
-#siteroot='https://bokhua.github.io'
+siteroot='https://bokhua.github.io'
 templatename = 'default'
 
 #######################################################
